@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: My Website
+title: Rayner Gonzalez Prendes
 
 # Your name to show in the footer
-author: Some Person
+author: Gonzalez-Prendes R
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -21,21 +21,27 @@ author: Some Person
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
-
+  Pipelines/Repos:
+    - Optibov-Project-: https://github.com/rprendes/Optibov-Project-
+    - learning python : https://github.com/rprendes/python-some-script-learning
+    - Comon used scripts for students : https://github.com/rprendes/common-use-scripts
+    - Integrating-Multiomics-data: https://github.com/rprendes/Integrating-Multiomics-data
+    - RNAseq pipeline: https://github.com/rprendes/RNAseq-QC-alignment
+    - Convert from Illumina2plink : https://github.com/rprendes/FromFinalReportIllumina-2plink
+    - Course for Optibov students 2021:  https://github.com/rprendes/Obtibov-Course-2021
+    - De novo Assembly-and-Polish-LongReads: https://github.com/rprendes/Assembly-and-Polish-LongReads
+    - My first website: https://github.com/rprendes/R-gonzalez-prendes
+    
 ################
 # --- Logo --- #
 ################
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+# avatar: "/assets/img/avatar-icon.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-round-avatar: true
+# round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
@@ -49,13 +55,13 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "rayner.gonzalezprendes@wur.nl"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  # facebook: deanattali
+  github: rprendes
+  # twitter: daattali
+  # patreon: DeanAttali
+  # youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
@@ -247,7 +253,7 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "Amsterdam"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
@@ -286,6 +292,15 @@ exclude:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-remote-theme
+  - jekyll-redirect-from
+  - jekyll-readme-index
 
+readme_index:
+  enabled:          true
+  remove_originals: false
+  with_frontmatter: true
+  
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
+
