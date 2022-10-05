@@ -4,13 +4,12 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I am a  Veterinary Researcher with strong background in Bioinformatics and Animal Genomic at the Animal Breeding and Genomics at Wageningen University and Ausnturia company.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I'm currently working on goat milk oligosaccharides and Optibov project analyzing whole genome sequences, pipeline development, and supporting different projects.
 
-What else do you need?
+Here you can find some codes from my daily work, as well as some tips I come across.
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+To be honest, I'm having some trouble remembering right now ....
