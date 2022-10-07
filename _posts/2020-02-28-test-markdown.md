@@ -3,6 +3,7 @@ layout: post
 title: Writing something 
 subtitle: Learn to run a gwas
 gh-repo: https://github.com/rprendes
+thumbnail-img: https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-019-5889-5/figures/2
 gh-badge: [star, fork, follow]
 tags: [gwas,plink,genotypes]
 comments: true
