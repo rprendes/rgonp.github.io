@@ -4,9 +4,8 @@ layout: post
 title: Writing something 
 subtitle: Learn to run a gwas
 cover-img: /assets/img/Image1.png
-gh-badge: [star, fork, follow]
-gh-repo: github.com/rprendes
-tags: [gwas,plink,genotypes]
+thumbnail-img: /assets/img/Image1.png
+tags: [gwas, plink, genotypes]
 comments: true
 ---
 
