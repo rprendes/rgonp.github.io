@@ -2,7 +2,7 @@
 layout: post
 title: Writing something 
 subtitle: Learn to run a gwas
-gh-repo: daattali/beautiful-jekyll
+gh-repo: https://github.com/rprendes
 gh-badge: [star, fork, follow]
 tags: [gwas,plink,genotypes]
 comments: true
