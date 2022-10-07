@@ -2,7 +2,6 @@
 layout: post
 title: Writing something 
 subtitle: Learning to run a gwas
-cover-img: /assets/img/Image1.png
 thumbnail-img: /assets/img/Image1.png
 tags: [gwas,plink, genotypes]
 comments: true
